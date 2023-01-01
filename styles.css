@@ -58,9 +58,9 @@ h1 {
   }
 }
 
-/* pixel size less than 400px */
+/* pixel size less than 500px */
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
   h1 {
     font-size: 15px;
   }
