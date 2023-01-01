@@ -64,4 +64,7 @@ h1 {
   h1 {
     font-size: 15px;
   }
+  .img-container {
+    width: 70%;
+  }
 }
